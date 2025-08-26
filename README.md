@@ -20,10 +20,7 @@ KSspaceTravel/
 ├── package.json
 └── README.md
 🧑‍💻 Getting Started
-Clone the repository:
 
-git clone https://github.com/KierstinS2024/KSspaceTravel.git
-cd KSspaceTravel
 Install dependencies:
 
 npm install
