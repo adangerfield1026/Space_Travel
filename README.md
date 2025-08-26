@@ -9,7 +9,7 @@ Frontend: React, JavaScript, HTML, CSS
 State Management: React Hooks
 Styling: CSS Modules
 📁 Project Structure
-KSspaceTravel/
+spaceTravel/
 ├── public/
 │   └── index.html
 ├── src/
