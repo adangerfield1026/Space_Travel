@@ -1,0 +1,39 @@
+/* Global styles and CSS reset */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Orbitron', 'Arial', sans-serif;
+  background: #0c1820;
+  color: #e0e1dd;
+  line-height: 1.6;
+}
+
+/* Scrollbar styling for webkit browsers */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1e3a49;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #66fcf1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #55bdb9;
+}
+
+/* Focus styles for accessibility */
+*:focus {
+  outline: 2px solid #66fcf1;
+  outline-offset: 2px;
+}

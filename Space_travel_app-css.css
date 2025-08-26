@@ -1,0 +1,11 @@
+/* Global App Styles */
+.App {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0c1820 0%, #1e3a49 100%);
+  color: #e0e1dd;
+  font-family: 'Orbitron', 'Arial', sans-serif;
+}
+
+main {
+  min-height: calc(100vh - 80px);
+}
